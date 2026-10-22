@@ -1,6 +1,6 @@
 # Proyecto académico de estadísticas de ruleta
 
-Copia privada de las fuentes del proyecto al 2026-10-22.
+Copia de las fuentes del proyecto al 2026-10-22.
 
 Origen: Taller_Computo/Proyecto_Ludópatas_Ruleta.zip.
 
