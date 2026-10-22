@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-22",
+  "project": "Proyecto académico de estadísticas de ruleta",
+  "source": "Taller_Computo/Proyecto_Ludópatas_Ruleta.zip",
+  "repository": "mmoralescode/proyecto-ludopatas-ruleta",
+  "branch": "main",
+  "source_git": {},
+  "source_file_count": 3,
+  "source_bytes": 2248,
+  "excluded_candidate_counts": {},
+  "config_changes": [],
+  "files": [
+    {
+      "path": "ruleta.txt",
+      "bytes": 264,
+      "source_sha256": "68f3ee9b302bc670c37d8d909887bf8cf47f7bff137da88a5143efa9f15b39b2",
+      "snapshot_sha256": "68f3ee9b302bc670c37d8d909887bf8cf47f7bff137da88a5143efa9f15b39b2"
+    },
+    {
+      "path": "salida.txt",
+      "bytes": 522,
+      "source_sha256": "3af29d9b93f08b24526ffb94d73303f19f831e77f13adfae750b5ff430bdb3e2",
+      "snapshot_sha256": "3af29d9b93f08b24526ffb94d73303f19f831e77f13adfae750b5ff430bdb3e2"
+    },
+    {
+      "path": "script.sh",
+      "bytes": 1462,
+      "source_sha256": "77fe103aa226b1a1413c7d2997be0ce8c0a5766d64217afe09db729a4af1f0da",
+      "snapshot_sha256": "77fe103aa226b1a1413c7d2997be0ce8c0a5766d64217afe09db729a4af1f0da"
+    }
+  ]
+}

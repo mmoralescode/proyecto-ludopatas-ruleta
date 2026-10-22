@@ -1,0 +1,16 @@
+tirada,numero,color,paridad
+1,17,negro,impar
+2,32,rojo,par
+3,5,rojo,impar
+4,8,negro,par
+5,23,rojo,impar
+6,29,negro,impar
+7,14,rojo,par
+8,11,negro,impar
+9,36,rojo,par
+10,2,negro,par
+11,21,rojo,impar
+12,26,negro,par
+13,19,rojo,impar
+14,31,negro,impar
+15,34,rojo,par
